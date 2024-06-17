@@ -1,0 +1,11 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .grid *
+  {
+    margin: 10px;
+  }
+  /* DO NOT TOUCH CODE ABOVE THIS */
+  
